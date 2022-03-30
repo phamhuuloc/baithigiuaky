@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.ul {
+  list-style: none;
+}
+.product {
+  display: flex;
+  justify-content: center;
+}
+.img {
+  margin-right: 200px;
+}
+.title {
+  font-size: 40px;
+}
+.author {
+  font-size: 30px;
+  margin-top: 30px;
+}
+.price {
+  font-size: 20px;
+  font-weight: 600;
+  color: tomato;
+  margin-top: 30px;
+}
